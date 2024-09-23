@@ -2,4 +2,4 @@
 2) cd hw1
 3) pip install uvicorn
 4) uvicorn app.myapp:myapp --reload
-5) pytests
+5) pytest
